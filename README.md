@@ -39,14 +39,6 @@ An executive-style interactive dashboard built with Power BI to analyze e-commer
 
 ![Dashboard Preview](https://raw.githubusercontent.com/HusamQ/sales-performance-dashboard-pbi/refs/heads/main/assets/dashboard_preiew.bmp)
 
----
 
-## 📫 Author
-
-**Husam Qarawi**  
-🔗 [LinkedIn](https://linkedin.com/in/Husamqarawi)  
-📧 husamtq@gmail.com
-=======
-# sales-performance-dashboard-pbi
 Interactive Power BI dashboard for analyzing sales performance across products, regions, and time. Includes KPIs, DAX measures, filters, and visual storytelling.
 
